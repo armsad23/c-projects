@@ -1,2 +1,2 @@
-# c-projects
+# cprojects
 C++ projects
